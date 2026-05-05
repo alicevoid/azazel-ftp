@@ -228,3 +228,10 @@ result-*
 
 # Ignore NixOS interactive test driver history
 **/.nixos-test-history
+
+##### Claude Stuff ##### 
+
+.claude/
+.claude.json
+.claude.json.backup
+.claude*
