@@ -1,6 +1,6 @@
-# azazel-ftp
+# azazel
 
-A nixos ftp tool designed for the CLI that implements HTTP2 to-spec in python.
+A nixos file-transfer tool designed for the CLI that implements HTTP2 to-spec in python.
 
 # etc...
 lmd: 
